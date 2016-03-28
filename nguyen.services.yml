@@ -1,0 +1,3 @@
+services:
+  nguyen.injector:
+    class: Drupal\nguyen\NguyenServices\Injector
